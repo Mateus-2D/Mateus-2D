@@ -26,5 +26,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+<picture› ›
+  <fonte mídia midiática=O "(prefere-cor-esquema: escuro)O " srcset=O "https://raw.githubusercontent.com/Mateus-2D/Mateus-2D/output/pacman-contribution-graph-dark.svgO "› ›
+  <fonte mídia midiática=O "(prefere-esquema-cor: leve)O " srcset=O "https://raw.githubusercontent.com/Mateus-2D/Mateus-2D/output/pacman-contribution-graph.svgO "› ›
+  <img elevado=O "gráfico de contribuição do PacmanO " src=O "https://raw.githubusercontent.com/Mateus-2D/Mateus-2D/output/pacman-contribution-graph.svgO "› ›
+</picture› ›
 ###
