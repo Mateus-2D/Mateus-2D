@@ -1,4 +1,4 @@
-<h2 align="left">## Hi Mateus-2D<br><br>Me chamo Mateus Rimoli Micheletto, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Parque Belém, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Gosto muito de tecnologia e espero um dia conseguir um bom emprego em grandes empresas.</h2>
+<h2 align="left">## Hi Mateus-2D<br><br>Me chamo Mateus Rimoli Micheletto, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Parque Belém, com o curso técnico em informática. Atualmente, estou fazendo Análise e Desenvolvimento de Sistemas na UNICID. Gosto muito de tecnologia e espero um dia conseguir um bom emprego em grandes empresas.</h2>
 
 ###
 
